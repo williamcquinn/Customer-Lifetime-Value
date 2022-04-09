@@ -1,4 +1,4 @@
-# customer-lifetime-value
+# Customer-Lifetime-Value
 Home Alarm, Inc.: Assessing Customer Lifetime Value
 
 It was late one afternoon in May and Kevin Starke, the Head of Marketing Analytics for Home 
